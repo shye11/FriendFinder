@@ -1,0 +1,23 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "assignment 11",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shye11/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shye11/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/shye11/FriendFinder#readme"
+}
